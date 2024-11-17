@@ -13,7 +13,6 @@
 #ifndef CANON_HH
 #define CANON_HH
 
-#include <stdio.h>		// FILE
 #include <vector>
 
 #include "emcpos.h"

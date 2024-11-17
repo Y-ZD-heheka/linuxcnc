@@ -22,7 +22,6 @@
 
 #ifndef MODAL_STATE_HH
 #define MODAL_STATE_HH
-#include <vector>
 #include <bitset>
 
 // Bring in C struct for a state tag from motion

@@ -22,7 +22,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <set>
 
 #define BOOST_PYTHON_MAX_ARITY 4
 #include <boost/python/exec.hpp>

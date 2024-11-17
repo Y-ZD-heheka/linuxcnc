@@ -60,7 +60,6 @@
 #include <locale.h>
 #include "usrmotintf.h"
 #include <rtapi_string.h>	// rtapi_strlcpy()
-#include "tooldata.hh"
 
 #if 0
 // Enable this to niftily trap floating point exceptions for debugging

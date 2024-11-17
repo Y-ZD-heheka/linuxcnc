@@ -18,8 +18,6 @@
 
 #include <Python.h>
 #include <structmember.h>
-#include <string>
-#include <map>
 using namespace std;
 
 #include "config.h"

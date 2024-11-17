@@ -55,3 +55,8 @@ position.txt
 *.*-stamp
 # Ignore VSCode settings
 .vscode/settings.json
+
+.cache
+boost
+.vscode
+complilecompile_commands.json
